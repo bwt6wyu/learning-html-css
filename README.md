@@ -1,5 +1,5 @@
-HTML & CSS Full Course - Beginner to Pro  
-by SuperSimpleDev
+## HTML & CSS Full Course - Beginner to Pro  
+###### by SuperSimpleDev
 ----------------------------------
 This is to mark my progress through
 this tutorial and my journey to learning
